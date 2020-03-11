@@ -4,3 +4,7 @@
 [submodule "reset-password-bundle"]
 	path = reset-password-bundle
 	url = gith:symfonycasts/reset-password-bundle
+[submodule "maker-bundle"]
+	path = maker-bundle
+	url = https://github.com/jrushlow/maker-bundle.git
+	branch = feature/reset-password
