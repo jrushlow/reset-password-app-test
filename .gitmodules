@@ -1,9 +1,9 @@
 [submodule ".docker"]
 	path = .docker
-	url = gith:jrushlow/docker-symfony
+	url = https://github.com/jrushlow/docker-symfony.git
 [submodule "reset-password-bundle"]
 	path = reset-password-bundle
-	url = gith:symfonycasts/reset-password-bundle
+	url = https://github.com/symfonycasts/reset-password-bundle.git
 [submodule "maker-bundle"]
 	path = maker-bundle
 	url = https://github.com/jrushlow/maker-bundle.git
